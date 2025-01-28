@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Сделано
 public class Z4 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

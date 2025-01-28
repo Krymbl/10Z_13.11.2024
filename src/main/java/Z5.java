@@ -1,8 +1,8 @@
 import java.util.Scanner;
-
+//Сделано
 public class Z5 {
 	public static void main(String[] args) {
-		System.out.println("Введите x в формате double");
+		System.out.println("Введите x");
 		Scanner scanner = new Scanner(System.in);
 		double x = scanner.nextDouble(); //Значение х для которого вычиссляем sin(x)
 		double s = 1e-9; //Требуемая точность

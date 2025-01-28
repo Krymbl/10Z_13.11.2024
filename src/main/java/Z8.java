@@ -1,3 +1,4 @@
+//сделано
 public class Z8 {
 	public static void main (String[] args){
 		int n = 10;
@@ -16,4 +17,3 @@ public class Z8 {
 	}
 }
 
-//сделано
